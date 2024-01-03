@@ -10,6 +10,22 @@ Change Log:
 ---
 * v1.0.0 (2023-010-13) - Initial release.
 
+Dependencies:
+---
+
+System requirement:
+
++ Python3 (version >3.0.0)
+  * pandas 
+  * numpy
+  * mimetypes
+  * functools
+  * Bio
+    
+Third-party software: 
++ [meryl](https://github.com/marbl/meryl.git)
+
+
 Input sequencing files type:
 ---
 1. **For FASTQ files** 
