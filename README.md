@@ -1,6 +1,7 @@
 # LongReadsQC
-Quality control tool for long-read sequencing data
+Quality control tool for long-read sequencing data.
 
+LongReadsQC can parse FASTA or FASTQ files, statistics, then generate a length and quality analysis json file. This json files can be used for further analysis, as well as graphs and batch visulization for presentation.
 
 Input sequencing files type:
 ---
