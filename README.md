@@ -1,7 +1,14 @@
-# LongReadsQC
-Quality control tool for long-read sequencing data.
+**LongReadsQC © CycloneSEQ Shenzhen China**
+---
+Long reads quality control tools for Cyclone sequencing platform.
 
+Description:
+---
 LongReadsQC can parse FASTA or FASTQ files, statistics, then generate a length and quality analysis json file. This json files can be used for further analysis, as well as graphs and batch visulization for presentation.
+
+Change Log:
+---
+* v1.0.0 (2023-010-13) - Initial release.
 
 Input sequencing files type:
 ---
