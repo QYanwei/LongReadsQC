@@ -8,7 +8,7 @@ LongReadsQC can parse FASTA or FASTQ files, statistics, then generate a length a
 
 Change Log:
 ---
-* v1.0.0 (2023-010-13) - Initial release.
+* v1.0.0 (2023-10-13) - Initial release.
 
 Dependencies:
 ---
