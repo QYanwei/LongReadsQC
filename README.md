@@ -1,3 +1,4 @@
-The tool is no longer being updated.
+LongReadsQC(LRAPqc) will no longer be maintained. 
 
-Please visit the website https://github.com/QYanwei/Cycads for the latest tool.
+
+Please visit https://github.com/QYanwei/Cycads for the latest long-read QC tool.
